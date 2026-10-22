@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kubernetes Configuration
 
 This repository contains Kubernetes configuration files for deploying and managing a service.
@@ -83,3 +84,6 @@ To update or modify the configurations:
 
 Feel free to submit issues and enhancement requests.
 
+=======
+# Automated CI/CD Pipeline for Java Applications Using Jenkins, Maven, Docker, and Amazon EKS
+>>>>>>> 9c31b6406eace4a1157020d45473c242f6ecbcd7
